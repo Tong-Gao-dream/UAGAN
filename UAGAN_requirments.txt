@@ -1,0 +1,51 @@
+certifi==2021.10.8
+cffi @ file:///D:/bld/cffi_1636046306023/work
+charset-normalizer==2.0.12
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1631273254894/work
+colorama==0.4.4
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+cytoolz==0.11.2
+dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1644602974678/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+easydict==1.9
+fonttools @ file:///D:/bld/fonttools_1643722755699/work
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1641933807587/work
+idna==3.3
+imagecodecs @ file:///D:/bld/imagecodecs_1644819718476/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1644839698928/work
+jsonpatch==1.32
+jsonpointer==2.2
+kiwisolver @ file:///D:/bld/kiwisolver_1635836925049/work
+locket==0.2.0
+matplotlib @ file:///D:/bld/matplotlib-suite_1639359207070/work
+mkl-fft==1.3.1
+munkres==1.1.4
+networkx==2.6.3
+numpy @ file:///D:/bld/numpy_1640083233759/work
+opencv-python==4.5.5.62
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+partd @ file:///home/conda/feedstock_root/build_artifacts/partd_1617910651905/work
+Pillow==6.2.2
+protobuf==3.20.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+PyWavelets @ file:///D:/bld/pywavelets_1638210038797/work
+PyYAML @ file:///D:/bld/pyyaml_1636139977724/work
+pyzmq==22.3.0
+requests==2.27.1
+scikit-image==0.19.1
+scipy @ file:///C:/bld/scipy_1637806996411/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboardX==2.5
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1644583309565/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1636177962100/work
+torch==0.4.1
+torchfile==0.1.0
+torchvision==0.2.1
+tornado==6.1
+tqdm==4.62.3
+unicodedata2 @ file:///D:/bld/unicodedata2_1640031276438/work
+urllib3==1.26.8
+visdom==0.1.8.9
+websocket-client==1.2.3
