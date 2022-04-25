@@ -5,10 +5,19 @@ Method Combining Adversarial Learning and Attention Mechanism"
 
 Author email: gaotong_dream@foxmail
 
+![](./img/data.png)
+
+
 ## Datasets
 We use the renderings of [ShapeNet](https://www.shapenet.org/) and [Carvana](https://www.kaggle.com/) in our experiments,which are available below:
 - ShapeNet rendering images: http://genre.csail.mit.edu/downloads/shapenet_cars_chairs_planes_20views.tar
 - Carvana images and masks: https://www.kaggle.com/ (Please log in to the kaggle website to download)
+
+## Model Structure
+![](./img/model.png)
+
+
+
 
 ## Prerequisites
 #### Clone the Code Repository
