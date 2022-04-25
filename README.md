@@ -3,7 +3,10 @@
 This repository contains the source code for the paper "A High-precision Semantic Segmentation
 Method Combining Adversarial Learning and Attention Mechanism"  
 
-Author email: gaotong_dream@foxmail.com
+#### Author email: gaotong_dream@foxmail.com    
+
+![Github](https://img.shields.io/badge/PyTorch-v1.0.1-green.svg?style=for-the-badge&logo=data:image/png)
+![Github](https://img.shields.io/badge/python-3.6-green.svg?style=for-the-badge&logo=python)  
 
 ![](./img/data.png)
 
