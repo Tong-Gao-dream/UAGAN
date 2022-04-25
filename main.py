@@ -1,4 +1,4 @@
-import torch.optim
+import torch
 import os
 
 from train import train
