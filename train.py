@@ -1,17 +1,14 @@
-from torch.autograd import Variable
 import torch
+from torch.autograd import Variable
 
 
-def train(args, dataloader, generator, discriminator,optim_G, optim_D, loss_adv, loss_rec):
-
+def train(args, dataloader, generator, discriminator, optim_G, optim_D, loss_adv, loss_rec):
     for epoch in range(args.epoch):
         for i_batch, sample_batched in enumerate(dataloader):
-
             # update generator
 
             img, mask = \
                 sample_batched['image'], sample_batched['mask']
-
 
             valid = Variable(torch.cuda.FloatTensor(mask.size(0), 1).fill_(1.0), requires_grad=False)
             fake = Variable(torch.cuda.FloatTensor(img.size(0), 1).fill_(0.0), requires_grad=False)

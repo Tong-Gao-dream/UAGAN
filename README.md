@@ -3,7 +3,7 @@
 This repository contains the source code for the paper "A High-precision Semantic Segmentation
 Method Combining Adversarial Learning and Attention Mechanism"  
 
-Author email: gaotong_dream@foxmail
+Author email: gaotong_dream@foxmail.com
 
 ![](./img/data.png)
 
